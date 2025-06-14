@@ -17,7 +17,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-top: 525px;
+  margin-top: calc(100vh - 110px);
 }
 
 .name {
@@ -38,7 +38,7 @@
   margin-top: 7px;
   color: black;
   display: flex;
-  align-items: center;
+  align-items: end;
   justify-content: space-between;
 }
 
